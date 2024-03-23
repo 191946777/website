@@ -408,6 +408,111 @@ body{
   color: #fff;
 }
 
+@media screen and (max-width: 600px) {
+  .container {
+      width: 71%;
+  }
+
+  .name{
+    font-size: 18px;
+  }
+
+  .name span{
+    font-size: 18px;
+  }
+
+  .sidebar a{
+    font-size: 14px;
+  }
+
+  .main{
+    font-size: 30px;
+  }
+
+  .main-1{
+    font-size: 15px;
+  }
+
+  .main-2{
+    font-size: 15px;
+    text-align: justify;
+  }
+
+  .css-resume{
+    font-size: 15px;
+  }
+
+  .home-img img{
+    width: 200px;
+    position: absolute;
+    top: 17%;
+  }
+
+  .about1{
+    font-size: 15px;
+  }
+
+  .html-css img{
+    width: 80px;
+    height: 80px;
+  }
+
+  .heading-web{
+    font-size: 17px;
+  }
+
+  .intro{
+    font-size: 11px;
+    text-align: justify;
+    margin-right: 5px;
+  }
+
+  .heading-front{
+    font-size: 17px;
+  }
+
+  .heading-ui-ux{
+    font-size: 17px;
+    
+  }
+
+  .ui-ux-css{
+    margin-top: -10px;
+  }
+
+  .boxes{
+    display: flex;
+    justify-content: space-evenly;
+  }
+
+  .contact1{
+    font-size: 18px;
+    color: rgb(255, 41, 25);
+    text-decoration: 1px underline navy;
+  }
+
+  .emails{
+    font-size: 14px;
+    color: black;
+    text-decoration: underline seagreen;
+  }
+
+  .phone-num{
+    font-size: 14px;
+    color: black;
+    text-decoration: underline seagreen;
+  }
+
+  .input-name input{
+    width: 100px;
+  }
+
+  .input-name-1 input{
+    width: 100px;
+  }
+
+}
+
 
 
 
